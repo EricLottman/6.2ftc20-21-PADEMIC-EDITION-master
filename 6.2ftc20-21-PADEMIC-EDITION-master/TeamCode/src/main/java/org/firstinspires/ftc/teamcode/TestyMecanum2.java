@@ -5,12 +5,6 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-/**
- * This is an example minimal implementation of the mecanum drivetrain
- * for demonstration purposes.  Not tested and not guaranteed to be bug free.
- *
- * @author Brandon Gong
- */
 @TeleOp(name="Mecanum Drive Example", group="Iterative Opmode")
 public class TestyMecanum2 extends OpMode {
 
