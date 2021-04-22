@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4297493-4d68-4fcc-8add-6f1e733e5de7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/6.2ftc20-21-PADEMIC-EDITION-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/FTC_2016-17.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/FTC_2016-17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/RelicVuMark.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/RelicVuMark.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/StonesAndChips.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/StonesAndChips.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/UltimateGoal.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/UltimateGoal.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/assets/UltimateGoal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptCompassCalibration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptDIMAsIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptI2cAddressChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptMotorBulkRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptNullOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRampMotorSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRevSPARKMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptScanServo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsASJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsOnBotJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsSKYSTONE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTensorFlowObjectDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTensorFlowObjectDetectionSwitchableCameras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTensorFlowObjectDetectionWebcam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuMarkIdentification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuMarkIdentificationWebcam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaNavigationWebcam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaUltimateGoalNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptVuforiaUltimateGoalNavigationWebcam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptWebcam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/HardwarePushbot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByEncoder_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByGyro_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveByTime_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotAutoDriveToLine_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopPOV_Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/PushbotTeleopTank_Iterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SampleRevBlinkinLedDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorAdafruitRGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMUCalibration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDigitalTouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorKLNavxMicro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRCompass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRIrSeeker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMROpticalDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRRangeSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorREV2mDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/sample_conventions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/PermissionValidatorWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/drawable-xhdpi/icon_robotcontroller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/raw/gold.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/raw/silver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/xml/app_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/FtcRobotController/src/main/res/xml/device_filter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/lib/OpModeAnnotationProcessor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BLUE_BuildSide_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BLUE_Foundation_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BLUE_Foundation_Park_at_Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BLUE_LoadSide_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DrivingCode2Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DrivingCode3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Park_at_Wall_any_Side.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/RED_BuildSide_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/RED_Foundation_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/RED_Foundation_Park_at_Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/RED_LoadSide_Park_at_Skybridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TestCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TestyMecanum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/testTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/res/raw/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/build.common.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/build.dependencies.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/legal/AudioBlocksSounds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/legal/Exhibit A - LEGO Open Source License Agreement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/legal/LEGO Open Source License.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/PullRequest.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/chips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/stones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/target_chips_A4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/target_chips_USLetter.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/target_stones_A4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/doc/media/target_stones_USLetter.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/Vuforia.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/arm64-v8a/libVuforia.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/armeabi-v7a/libVuforia.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/ftc.debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/tensorflow-lite-0.0.0-nightly.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/libs/tfod-release.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.2ftc20-21-PADEMIC-EDITION-master/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rVwvjV5QUNpfWTdl20SmAZdQ2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4297493-4d68-4fcc-8add-6f1e733e5de7" name="Default Changelist" comment="" />
+      <created>1619074798153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619074798153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="328" key="Github.ShareDialog" timestamp="1619078810654">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="604" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1619078810654" />
+    <state x="440" y="135" key="Github.UntrackedFilesDialog" timestamp="1619078830346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="440" y="135" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1619078830346" />
+  </component>
+</project>
